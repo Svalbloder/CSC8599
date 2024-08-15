@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d83db55a3588b49b3abf6205c6aa27, type: 3}
+  m_Name: "4_\u5411\u65E5\u8475"
+  m_EditorClassIdentifier: 
+  _index: 4
+  _name: "\u5411\u65E5\u8475"
+  _image: {fileID: -5861724596904615751, guid: 8e2893a7687def745840c1996a7bc070, type: 3}
+  _info: 
+  _fruit: {fileID: -5861724596904615751, guid: 8e2893a7687def745840c1996a7bc070, type: 3}
+  _seedSprite: {fileID: 7580528212162215881, guid: 0be9c6cf344895b49a047cc127c01fa0, type: 3}
+  _seedlingModel: {fileID: 7580528212162215881, guid: 0be9c6cf344895b49a047cc127c01fa0, type: 3}
+  _plantingModel: {fileID: 4404061581122515066, guid: 0be9c6cf344895b49a047cc127c01fa0, type: 3}
+  _halfGrownModel: {fileID: 3938334964549819228, guid: 0be9c6cf344895b49a047cc127c01fa0, type: 3}
+  _matureModel: {fileID: 2907911484255489398, guid: 0be9c6cf344895b49a047cc127c01fa0, type: 3}
+  _fert: 1
+  _organic: -2
+  _condition: 4
+  _water: -5
+  _cost: 4
