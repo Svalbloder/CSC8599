@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CF78C52E-ADF4-A7CC-5FAB-857A673F6B21}</ProjectGuid>
+    <ProjectGuid>{82B51C73-2494-5794-932E-E5DC028A46DF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,6 +61,7 @@
     <Compile Include="Assets\houseShow.cs" />
     <Compile Include="Assets\Scrpits\PetManager.cs" />
     <Compile Include="Assets\Scrpits\Bag\GainSeed.cs" />
+    <Compile Include="Assets\Beginer.cs" />
     <Compile Include="Assets\robot.cs" />
     <Compile Include="Assets\Scrpits\Bag\LandManager.cs" />
     <Compile Include="Assets\Scrpits\SeedPoint.cs" />
@@ -82,7 +83,6 @@
     <Compile Include="Assets\Scrpits\Bag\Slot.cs" />
     <Compile Include="Assets\Scrpits\FarmOperationType.cs" />
     <Compile Include="Assets\Scrpits\IsometricZ.cs" />
-    <Compile Include="Assets\Beginer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -789,7 +789,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{AC4BC3E8-F639-1ECF-E25D-078496F9E5F0}</Project>
+      <Project>{D0B248F0-E5A6-31BB-A0AD-0EBED0CD7900}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>

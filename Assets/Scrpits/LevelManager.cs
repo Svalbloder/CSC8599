@@ -29,34 +29,21 @@ public class LevelManager : MonoBehaviour
         {
             case 0:
                 turnPage.maxPageCount++;
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                UnlockNextFarmLand();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
-                gainSeed.AddNewItem();
+                UnlockNextFarmLand();               
                 break;
             case 1:
                 turnPage.maxPageCount++;
+                UnlockNextFarmLand();
+                UnlockNextFarmLand();
                 gainSeed.AddNewItem();
-                
+                gainSeed.AddNewItem();
                 break;
             case 2:
-                turnPage.maxPageCount++;
-               
+                turnPage.maxPageCount++;            
                 UnlockNextFarmLand();
                 UnlockNextFarmLand();
+                gainSeed.AddNewItem();
+                gainSeed.AddNewItem();
                 break;
             case 3:
                 gainSeed.AddNewItem();
